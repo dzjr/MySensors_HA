@@ -1,0 +1,539 @@
+{
+    "0": {
+        "sensor_id": 0,
+        "children": {},
+        "type": 18,
+        "sketch_name": null,
+        "sketch_version": null,
+        "battery_level": 0,
+        "protocol_version": "2.3.1",
+        "heartbeat": 0
+    },
+    "51": {
+        "sensor_id": 51,
+        "children": {
+            "1": {
+                "id": 1,
+                "type": 3,
+                "description": "Tel Haak",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "11": {
+                "id": 11,
+                "type": 3,
+                "description": "Tel Ringtoon-1",
+                "values": {}
+            },
+            "12": {
+                "id": 12,
+                "type": 3,
+                "description": "Tel Ringtoon-2",
+                "values": {}
+            },
+            "15": {
+                "id": 15,
+                "type": 3,
+                "description": "Tel Ringtoon-5",
+                "values": {}
+            },
+            "16": {
+                "id": 16,
+                "type": 3,
+                "description": "Tel ALARM BEL",
+                "values": {}
+            },
+            "21": {
+                "id": 21,
+                "type": 3,
+                "description": "Tel Kiest-1",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "22": {
+                "id": 22,
+                "type": 3,
+                "description": "Tel Kiest-2",
+                "values": {}
+            },
+            "23": {
+                "id": 23,
+                "type": 3,
+                "description": "Tel Kiest-3",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "24": {
+                "id": 24,
+                "type": 3,
+                "description": "Tel Kiest-4",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "25": {
+                "id": 25,
+                "type": 3,
+                "description": "Tel Kiest-5",
+                "values": {}
+            },
+            "26": {
+                "id": 26,
+                "type": 3,
+                "description": "Tel Kiest-6",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "27": {
+                "id": 27,
+                "type": 3,
+                "description": "Tel Kiest-7",
+                "values": {}
+            },
+            "28": {
+                "id": 28,
+                "type": 3,
+                "description": "Tel Kiest-8",
+                "values": {}
+            },
+            "29": {
+                "id": 29,
+                "type": 3,
+                "description": "Tel Kiest-9",
+                "values": {}
+            },
+            "30": {
+                "id": 30,
+                "type": 3,
+                "description": "Tel Kiest-10",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "13": {
+                "id": 13,
+                "type": 3,
+                "description": "Tel Ringtoon-3",
+                "values": {}
+            },
+            "14": {
+                "id": 14,
+                "type": 3,
+                "description": "Tel Ringtoon-4",
+                "values": {}
+            }
+        },
+        "type": 17,
+        "sketch_name": "Telefoon_Node",
+        "sketch_version": "1.0",
+        "battery_level": 0,
+        "protocol_version": "2.3.1",
+        "heartbeat": 0
+    },
+    "111": {
+        "sensor_id": 111,
+        "children": {
+            "11": {
+                "id": 11,
+                "type": 19,
+                "description": "Schootcontact",
+                "values": {
+                    "36": "0"
+                }
+            },
+            "12": {
+                "id": 12,
+                "type": 0,
+                "description": "Deurcontact",
+                "values": {
+                    "16": "0"
+                }
+            },
+            "13": {
+                "id": 13,
+                "type": 3,
+                "description": "Reset knop",
+                "values": {}
+            },
+            "14": {
+                "id": 14,
+                "type": 3,
+                "description": "Licht aan",
+                "values": {}
+            },
+            "15": {
+                "id": 15,
+                "type": 19,
+                "description": "Schoor Poort",
+                "values": {
+                    "36": "0"
+                }
+            },
+            "16": {
+                "id": 16,
+                "type": 0,
+                "description": "Poortcontact",
+                "values": {
+                    "16": "0"
+                }
+            },
+            "26": {
+                "id": 26,
+                "type": 22,
+                "description": "MQ-2 CO meting",
+                "values": {
+                    "37": "7"
+                }
+            },
+            "27": {
+                "id": 27,
+                "type": 22,
+                "description": "MQ-2 Rook meting",
+                "values": {
+                    "37": "10"
+                }
+            },
+            "28": {
+                "id": 28,
+                "type": 2,
+                "description": "MQ-2 TRIPPED",
+                "values": {
+                    "16": "0"
+                }
+            },
+            "21": {
+                "id": 21,
+                "type": 22,
+                "description": "MQ-135 Gas",
+                "values": {
+                    "37": "4"
+                }
+            },
+            "22": {
+                "id": 22,
+                "type": 22,
+                "description": "MQ-135 Alcohol",
+                "values": {
+                    "37": "0"
+                }
+            },
+            "23": {
+                "id": 23,
+                "type": 22,
+                "description": "MQ-135 Amonnia",
+                "values": {
+                    "37": "3"
+                }
+            },
+            "24": {
+                "id": 24,
+                "type": 2,
+                "description": "MQ-135 TRIPPED",
+                "values": {}
+            },
+            "31": {
+                "id": 31,
+                "type": 1,
+                "description": "Beweging Schuur",
+                "values": {
+                    "16": "1"
+                }
+            },
+            "32": {
+                "id": 32,
+                "type": 1,
+                "description": "Sabotage of storing PIR",
+                "values": {
+                    "16": "1"
+                }
+            },
+            "33": {
+                "id": 33,
+                "type": 1,
+                "description": "ALARM Actief",
+                "values": {}
+            },
+            "35": {
+                "id": 35,
+                "type": 3,
+                "description": "Reset Schuur alarm",
+                "values": {}
+            },
+            "36": {
+                "id": 36,
+                "type": 2,
+                "description": "Extern alarm",
+                "values": {}
+            },
+            "37": {
+                "id": 37,
+                "type": 3,
+                "description": "Deurbel naar schuur",
+                "values": {}
+            },
+            "38": {
+                "id": 38,
+                "type": 3,
+                "description": "Buzzer in schuur",
+                "values": {}
+            }
+        },
+        "type": 17,
+        "sketch_name": "Schuur Alarm",
+        "sketch_version": "1.0",
+        "battery_level": 0,
+        "protocol_version": "2.3.1",
+        "heartbeat": 0
+    },
+    "12": {
+        "sensor_id": 12,
+        "children": {
+            "1": {
+                "id": 1,
+                "type": 3,
+                "description": "Display sturing-1",
+                "values": {
+                    "2": "0"
+                }
+            },
+            "2": {
+                "id": 2,
+                "type": 3,
+                "description": "Display sturing-2",
+                "values": {}
+            },
+            "5": {
+                "id": 5,
+                "type": 3,
+                "description": "Display sturing-5",
+                "values": {}
+            },
+            "6": {
+                "id": 6,
+                "type": 3,
+                "description": "Display sturing-6",
+                "values": {}
+            },
+            "7": {
+                "id": 7,
+                "type": 3,
+                "description": "Display sturing-7",
+                "values": {}
+            },
+            "8": {
+                "id": 8,
+                "type": 3,
+                "description": "Display sturing-8",
+                "values": {}
+            },
+            "21": {
+                "id": 21,
+                "type": 3,
+                "description": "Display sturing-11",
+                "values": {}
+            },
+            "22": {
+                "id": 22,
+                "type": 3,
+                "description": "Display sturing-12",
+                "values": {}
+            },
+            "111": {
+                "id": 111,
+                "type": 6,
+                "description": "WaterTemp",
+                "values": {}
+            },
+            "112": {
+                "id": 112,
+                "type": 21,
+                "description": "WaterFlow",
+                "values": {}
+            },
+            "113": {
+                "id": 113,
+                "type": 8,
+                "description": "Waterdruk",
+                "values": {}
+            },
+            "114": {
+                "id": 114,
+                "type": 6,
+                "description": "NodeTemp",
+                "values": {}
+            },
+            "121": {
+                "id": 121,
+                "type": 22,
+                "description": "MQ2_CO",
+                "values": {}
+            },
+            "122": {
+                "id": 122,
+                "type": 22,
+                "description": "MQ2_Rook",
+                "values": {}
+            },
+            "123": {
+                "id": 123,
+                "type": 22,
+                "description": "MQ5_Gas",
+                "values": {}
+            },
+            "124": {
+                "id": 124,
+                "type": 32,
+                "description": "Lekkage",
+                "values": {}
+            },
+            "125": {
+                "id": 125,
+                "type": 33,
+                "description": "Buzzer_Aan",
+                "values": {}
+            },
+            "126": {
+                "id": 126,
+                "type": 33,
+                "description": "reset_msg",
+                "values": {}
+            },
+            "131": {
+                "id": 131,
+                "type": 3,
+                "description": "BIN_1",
+                "values": {}
+            },
+            "132": {
+                "id": 132,
+                "type": 3,
+                "description": "BIN_2",
+                "values": {}
+            },
+            "133": {
+                "id": 133,
+                "type": 3,
+                "description": "BIN_3",
+                "values": {}
+            },
+            "134": {
+                "id": 134,
+                "type": 3,
+                "description": "BIN_4",
+                "values": {}
+            },
+            "135": {
+                "id": 135,
+                "type": 3,
+                "description": "BIN_5",
+                "values": {}
+            },
+            "141": {
+                "id": 141,
+                "type": 2,
+                "description": "MQ2_Alarm",
+                "values": {}
+            },
+            "142": {
+                "id": 142,
+                "type": 2,
+                "description": "MQ5_Alarm",
+                "values": {}
+            },
+            "143": {
+                "id": 143,
+                "type": 2,
+                "description": "Ext_Alarm",
+                "values": {}
+            },
+            "144": {
+                "id": 144,
+                "type": 2,
+                "description": "Res_Alarm",
+                "values": {}
+            },
+            "151": {
+                "id": 151,
+                "type": 3,
+                "description": "Klep_Achter",
+                "values": {}
+            },
+            "152": {
+                "id": 152,
+                "type": 21,
+                "description": "Flow Achter",
+                "values": {}
+            },
+            "153": {
+                "id": 153,
+                "type": 3,
+                "description": "Klep_Voor",
+                "values": {}
+            },
+            "154": {
+                "id": 154,
+                "type": 21,
+                "description": "Flow_Voor",
+                "values": {}
+            },
+            "161": {
+                "id": 161,
+                "type": 7,
+                "description": "HUM_Hal",
+                "values": {}
+            },
+            "162": {
+                "id": 162,
+                "type": 6,
+                "description": "Temp_Hal",
+                "values": {}
+            },
+            "163": {
+                "id": 163,
+                "type": 7,
+                "description": "HUM_Kruip",
+                "values": {}
+            },
+            "164": {
+                "id": 164,
+                "type": 6,
+                "description": "Temp_Kruip",
+                "values": {}
+            },
+            "165": {
+                "id": 165,
+                "type": 7,
+                "description": "HUM_WC",
+                "values": {}
+            },
+            "166": {
+                "id": 166,
+                "type": 6,
+                "description": "Temp_WC",
+                "values": {}
+            },
+            "3": {
+                "id": 3,
+                "type": 3,
+                "description": "Display sturing-3",
+                "values": {}
+            },
+            "4": {
+                "id": 4,
+                "type": 3,
+                "description": "Display sturing-4",
+                "values": {}
+            }
+        },
+        "type": 17,
+        "sketch_name": "Display Meterkast",
+        "sketch_version": "1.0",
+        "battery_level": 0,
+        "protocol_version": "2.3.1",
+        "heartbeat": 0
+    }
+}
